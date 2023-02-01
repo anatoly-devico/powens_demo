@@ -1,0 +1,19 @@
+{
+  "name": "powens_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tests": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "Anatoly Devico",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.4.0",
+    "cypress-dotenv": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "guerrillamail-api": "^1.2.2",
+    "@cypress/webpack-preprocessor": "^5.16.1"
+  }
+}
