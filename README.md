@@ -1,3 +1,4 @@
+Keywords: Cypress, Email authentication, Webhooks handling
 ### Prerequisites:
 1.  Install Node.js v18
 
